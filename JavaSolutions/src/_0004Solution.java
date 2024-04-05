@@ -10,6 +10,7 @@ public class _0004Solution {
     String s1 = "babad"; // bab
     String s2 = "cbbd"; // bb
     System.out.println(longestPalindrome(s1));
+    System.out.println(longestPalindrome(s2));
   }
 
   public static String longestPalindrome(String s) {
