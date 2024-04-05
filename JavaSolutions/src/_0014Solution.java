@@ -1,6 +1,6 @@
 // https://leetcode.com/problems/longest-common-prefix/
 // easy
-// Time: ; Space: 
+// Time: O(|strs[0]| |strs|) ; Space: O(|strs[0]) 
 
 public class _0014Solution {
 
