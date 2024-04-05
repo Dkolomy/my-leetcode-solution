@@ -28,5 +28,5 @@ https://leetcode.com/problems/median-of-two-sorted-arrays
 [4]
 
 # Python3
-[4, 5]
+[4, 5, 6]
 
