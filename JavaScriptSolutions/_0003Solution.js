@@ -2,7 +2,7 @@
  * @param {string} s
  * @return {number}
  */
-var lengthOfLongestSubstring = function(s) {
+var lengthOfLongestSubstring = function (s) {
   // Initialise an array to store the running characters and a longest string length variable
   let currentString = [];
   let longestStringLength = 0;
@@ -23,9 +23,7 @@ var lengthOfLongestSubstring = function(s) {
 
     // Store the current string length if bigger than the existing record
     longestStringLength = Math.max(longestStringLength, currentString.length);
-
   }
 
   return longestStringLength;
-
 };

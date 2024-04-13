@@ -22,7 +22,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 https://leetcode.com/problems/median-of-two-sorted-arrays
 
 # Java
-[4]
+[4, 5]
 
 # JavaScript
 [4]

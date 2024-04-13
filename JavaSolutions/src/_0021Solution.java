@@ -2,6 +2,8 @@
 // easy
 // Time: 0(|list1|+|list2|) ; Space: O(1) 
 
+import learning.ListNode;
+
 public class _0021Solution {
 
   public static void main(String[] args) {

@@ -18,9 +18,6 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
 
 ## Solutions should be done
-4. Median of Two Sorted Arrays
-https://leetcode.com/problems/median-of-two-sorted-arrays
-
 # Java
 [4]
 
@@ -28,5 +25,5 @@ https://leetcode.com/problems/median-of-two-sorted-arrays
 [4]
 
 # Python3
-[4, 5, 6]
+[4]
 
