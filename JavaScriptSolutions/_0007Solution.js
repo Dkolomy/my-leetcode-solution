@@ -6,7 +6,7 @@
  * @param {number} x
  * @return {number}
  */
-var reverse = function (x) {
+var reverse1 = function (x) {
   let result = 0;
 
   let idx = x < 0;
@@ -17,4 +17,13 @@ var reverse = function (x) {
   }
 
   return result > 0x7FFFFFFF ? 0 : idx ? -result : result;
+};
+
+var reverse = function (x) {
+  let idx = x < 0;
+  let y = "" + Math.abs(x);
+  let result = +(y.split("").reverse().join(""));
+
+  return result > 0x7FFFFFFF ? 0 : idx ? -result : result;
+
 };

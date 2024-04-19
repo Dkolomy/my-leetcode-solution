@@ -23,3 +23,5 @@ var convert = function (s, numRows) {
   return result.join('')
 
 };
+
+//console.log(convert("PAYPALISHIRING", 4))

@@ -1,6 +1,7 @@
 // https://leetcode.com/problems/palindrome-number/
 // medium
 // Time: O(log x); Space: O(1) 
+// 234, 2217, 2396
 
 public class _0009Solution {
 
